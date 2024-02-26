@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       
-  This a projected Route
+    This a projected Route
     </div>
   );
 }
